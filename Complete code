@@ -1,6 +1,4 @@
-# Program 
 
-``` 
 #include <Arduino.h>
 #include <Wire.h>
 #include <RTClib.h>
@@ -822,4 +820,3 @@ void buttonGreenInterrupt() {
   }
 }
 
-```
