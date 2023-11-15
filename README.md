@@ -1,5 +1,5 @@
 # Worldwide-Weather-Watcher
-Weather station school project with ArduinoUno card.
+Weather station school project with ArduinoUno card and a program in C language.
 
 ## Context 
 
